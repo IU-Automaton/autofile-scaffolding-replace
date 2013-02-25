@@ -1,0 +1,25 @@
+{
+  "name": "autofile-scaffolding-replace",
+  "version": "0.0.1",
+  "description": "Replace {{placeholders}} in files with data. This will look for the placeholder in a file, and replace it with a string.",
+  "main": "autofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IU-Automaton/autofile-scaffolding-replace"
+  },
+  "keywords": [
+    "autofile",
+    "automaton",
+    "task",
+    "replace",
+    "scaffolding",
+    "glob",
+    "placeholder"
+  ],
+  "author": "Indigo United",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
