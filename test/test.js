@@ -1,10 +1,11 @@
 'use strict';
 
-var fs        = require('fs');
-var expect    = require('expect.js');
-var rimraf    = require('rimraf');
-var replace   = require('../autofile');
-var automaton = require('automaton').create();
+var fs        = require('fs'),
+    expect    = require('expect.js'),
+    rimraf    = require('rimraf'),
+    replace   = require('../autofile'),
+    automaton = require('automaton').create()
+;
 
 describe('scaffolding-replace', function () {
     function clean(done) {
