@@ -1,9 +1,9 @@
 `automaton task` - http://indigounited.com/automaton
 
-rm
+scaffolding-replace
 ===
 
-Remove file or set of files.
+Replace `{{placeholders}}` with a given data in files.
 
 *Indigo United 2013*
 
